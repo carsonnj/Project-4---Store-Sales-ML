@@ -20,10 +20,13 @@ Plotly/Matplot the actuals vs. predicted
 Run the KNN model with a couple of variations with different to optimize the accuracy score
 Plotly/Matplot the actuals vs. predicted
 
-Slides 
-Overview/Process Layout
-Binning/Cluster based on sales per sq.yd.
-Linear Regression - actual vs. projected
-KNN - Actual vs. projected
+
+Slides
+Data set Introduction- Process/Outline (adding columns, clustering, 4 models (Linear, random forest, xgb, and KNN)- Nick
+Distribution curves - pointing to items/sqft was the only thing linear- Trevor
+Show sns plot with feature correlation- Nick
+Results from the 4 model- Trevor
+Summary - Data wasn’t good - Nick
+
 Summary
 
